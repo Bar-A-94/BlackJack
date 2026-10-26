@@ -34,7 +34,7 @@ Read more: [game rules](Game/) · [table players](Players/TablesPlayers/) · [RL
   <img src="compare/compare%201000%20games%20for%20each%20training%20session.png" width="80%" alt="Comparison of players across training sessions" />
 </p>
 
-**Lesson learned:** both Q-learning players learn most of their strategy in the first 1,000 training rounds, and neither comes close to the basic strategy. Q-learning also learns to avoid risk, since losses weigh heavily on its decisions.
+**Lesson learned:** the Q-learning curves flatten out as training grows, and neither Q-learning player comes close to the basic strategy. Q-learning also learns to avoid risk, since losses weigh heavily on its decisions.
 
 <details>
 <summary><b>🔥 Decision tables (hard hands)</b></summary>
